@@ -13,6 +13,8 @@ body{
     justify-content: flex-end; /* Aligns children at the bottom */
     align-items: center; /* Centers children horizontally */
     border-radius: 15px;
+    direction: column;
+    gap: 2px;
 }
 
 .game_title1 {
